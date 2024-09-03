@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    gap: 1000px;
+    width: 1315px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(255, 250, 250);
+}
+.navbar-elon{
+    margin-left: 50px;
+    margin-top:15px ;
+    margin-bottom: 15px;
+  
+}
+.navbar select{
+    margin-left: 50px;
+    margin-top:15px ;
+    margin-bottom: 15px;
+    border: 0px;
+}
+.navbar-elon a{
+    text-decoration: none;
+}
+.option{
+    border: 0px;
+}
+.sections {
+display: flex;
+gap: 30px;
+list-style: none;
+text-decoration: none;
+padding-top: 20px;
+
+}
+.button{
+    border-radius: 10;
+    height: 40px;
+    width: 120px;
+    border: 1px grey;
+    margin-top: 30px;
+    margin-left: 170px;
+    
+}
+.href{
+    display: flex;
+    text-decoration: none;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(116, 192, 253);
+}
+.href a{
+    text-decoration: none;
+    font-size: 14px;
+    color:  #2A81DD;
+    font-family: sans-serif;
+}
+.button a{
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    color: #2A81DD;
+    font-size: 20px;
+}
+.ad h1{
+font-family: sans-serif;
+font-size: 35px;
+}
+.ad{
+    margin-left: 25px;
+    margin: 30px;
+}
+.elon-information p{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.elon-information{
+    margin-left: 28px;
+    margin-top: 50px;
+}
+.category p{
+font-family: sans-serif;
+font-size: 15px;
+}
+.category{
+    margin-left: 30PX;
+    margin-top: 50PX;
+}
+.roshat{
+display: flex;
+list-style: none;
+justify-content: center;
+align-items: center;
+width: 200px;
+height: 230px;
+border: 1px solid black;
+border-radius: 3px;
+margin-left: 200px;
+margin-bottom: 50px;
+margin-top: 10px;
+
+}
+.roshat li{
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
